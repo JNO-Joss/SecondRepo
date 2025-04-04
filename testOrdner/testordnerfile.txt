@@ -1,3 +1,4 @@
 test Ordner
 third local commit Kopie
-neu text
+from a new branch
+
