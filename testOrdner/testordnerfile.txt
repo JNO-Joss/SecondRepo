@@ -2,4 +2,5 @@ test Ordner
 third local commit Kopie
 from a new branch
 new text
+text for remote branch
 
